@@ -40,7 +40,7 @@ The goal of this project is to predict user ratings for movies and generate pers
 2. Install dependencies (e.g., `scikit-surprise`) if needed
 
    ```bash
-   pip install scikit-surprise
+   pip install pandas scikit-surprise
    ```
 
 3. Run the cells in order
