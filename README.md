@@ -29,7 +29,7 @@ The goal of this project is to predict user ratings for movies and generate pers
 
 ## Results
 
-- Best RMSE achieved: *[insert value, e.g., 0.91]*
+- Best RMSE achieved: 0.9133596445782564
 - Model performed well in predicting ratings based on latent features
 
 ---
